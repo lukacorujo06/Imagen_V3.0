@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\bin\Debug\Ejercitacion 4.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\bin\Debug\Ejercitacion 4.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\obj\Debug\Ejercitacion 4.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\obj\Debug\Ejercitacion_4.MainForm.resources
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\obj\Debug\Ejercitacion 4.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\obj\Debug\Ejercitacion 4.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Ejercitacion 4\Ejercitacion 4\obj\Debug\Ejercitacion 4.pdb
